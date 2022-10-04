@@ -1,0 +1,19 @@
+{
+  "name": "git-exercise-2",
+  "version": "1.0.0",
+  "description": "JavaScript and NPM modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leibrbs7/git-exercise-2.git"
+  },
+  "author": "Leila Jorg Barbosa <leila.barbosa@siteminder.com> (https://github.com/leibrbs7)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leibrbs7/git-exercise-2/issues"
+  },
+  "homepage": "https://github.com/leibrbs7/git-exercise-2#readme"
+}
