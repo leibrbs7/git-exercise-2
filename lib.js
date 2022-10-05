@@ -9,3 +9,11 @@ const isPalindrome = (str) => {
     let reverse = lowStr.split('').reverse().join('');
     return lowStr === reverse;
 }
+
+module.exports = {
+    square,
+    farenheit,
+    rectangleArea,
+    isPalindrome
+}
+
