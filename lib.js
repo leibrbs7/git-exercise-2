@@ -19,6 +19,6 @@ const rectangleArea = (a,b) => {
 const isPalindrome = (str) => {
     let lowStr = str.toLowerCase();
     let start = lowStr;
-    let end = lowStr.toLowerCase().split('').reverse().join('');
+    let end = lowStr.split('').reverse().join('');
     return end == start;
 }
